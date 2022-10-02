@@ -1,0 +1,23 @@
+.cart {
+    color: green;
+    text-align: center;
+}
+
+.product{
+    color: grey;
+}
+
+.sub {
+    display: flex;
+    flex-direction: row;
+    margin-right: 10px;
+}
+
+Button {
+    width: 150px;
+    text-align: center;
+    margin-left: 100px;
+}
+.dang{
+    margin-left: 150px;
+}
